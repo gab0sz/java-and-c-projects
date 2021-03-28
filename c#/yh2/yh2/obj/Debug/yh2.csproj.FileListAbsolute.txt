@@ -1,0 +1,6 @@
+F:\prog2\c#\yh2\yh2\bin\Debug\yh2.exe.config
+F:\prog2\c#\yh2\yh2\bin\Debug\yh2.exe
+F:\prog2\c#\yh2\yh2\bin\Debug\yh2.pdb
+F:\prog2\c#\yh2\yh2\obj\Debug\yh2.csproj.CoreCompileInputs.cache
+F:\prog2\c#\yh2\yh2\obj\Debug\yh2.exe
+F:\prog2\c#\yh2\yh2\obj\Debug\yh2.pdb

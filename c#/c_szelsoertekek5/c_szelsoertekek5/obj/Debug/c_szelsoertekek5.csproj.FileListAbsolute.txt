@@ -1,0 +1,6 @@
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\bin\Debug\c_szelsoertekek5.exe.config
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\bin\Debug\c_szelsoertekek5.exe
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\bin\Debug\c_szelsoertekek5.pdb
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\obj\Debug\c_szelsoertekek5.csproj.CoreCompileInputs.cache
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\obj\Debug\c_szelsoertekek5.exe
+F:\prog2\c#\c_szelsoertekek5\c_szelsoertekek5\obj\Debug\c_szelsoertekek5.pdb

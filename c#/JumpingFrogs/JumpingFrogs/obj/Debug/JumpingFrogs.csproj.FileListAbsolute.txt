@@ -1,0 +1,16 @@
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.csprojAssemblyReference.cache
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.csproj.CoreCompileInputs.cache
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.exe.config
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.exe
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.pdb
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogsDLL.dll
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.csproj.CopyComplete
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.exe
+C:\Users\hallgato\source\repos\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.pdb
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.exe.config
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.exe
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\bin\Debug\JumpingFrogs.pdb
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.csprojAssemblyReference.cache
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.csproj.CopyComplete
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.exe
+F:\prog2\c#\JumpingFrogs\JumpingFrogs\obj\Debug\JumpingFrogs.pdb

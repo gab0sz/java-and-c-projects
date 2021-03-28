@@ -1,0 +1,7 @@
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\bin\Debug\MoziAzEgeszVilag.exe.config
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\bin\Debug\MoziAzEgeszVilag.exe
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\bin\Debug\MoziAzEgeszVilag.pdb
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\obj\Debug\MoziAzEgeszVilag.csprojAssemblyReference.cache
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\obj\Debug\MoziAzEgeszVilag.csproj.CoreCompileInputs.cache
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\obj\Debug\MoziAzEgeszVilag.exe
+F:\prog2\c#\MoziAzEgeszVilag\MoziAzEgeszVilag\obj\Debug\MoziAzEgeszVilag.pdb

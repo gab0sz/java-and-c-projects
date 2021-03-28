@@ -1,0 +1,11 @@
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\obj\Debug\netcoreapp3.0\tortaszeleteles.csprojAssemblyReference.cache
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\obj\Debug\netcoreapp3.0\tortaszeleteles.AssemblyInfoInputs.cache
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\obj\Debug\netcoreapp3.0\tortaszeleteles.AssemblyInfo.cs
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.exe
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.deps.json
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.runtimeconfig.json
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.runtimeconfig.dev.json
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.dll
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\bin\Debug\netcoreapp3.0\tortaszeleteles.pdb
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\obj\Debug\netcoreapp3.0\tortaszeleteles.dll
+F:\prog2\c#\tortaszeleteles\tortaszeleteles\obj\Debug\netcoreapp3.0\tortaszeleteles.pdb

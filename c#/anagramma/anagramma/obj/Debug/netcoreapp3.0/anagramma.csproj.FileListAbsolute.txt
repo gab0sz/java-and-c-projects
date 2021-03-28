@@ -1,0 +1,11 @@
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.exe
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.deps.json
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.runtimeconfig.json
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.runtimeconfig.dev.json
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.dll
+C:\Users\Габор\source\repos\anagramma\anagramma\bin\Debug\netcoreapp3.0\anagramma.pdb
+C:\Users\Габор\source\repos\anagramma\anagramma\obj\Debug\netcoreapp3.0\anagramma.csprojAssemblyReference.cache
+C:\Users\Габор\source\repos\anagramma\anagramma\obj\Debug\netcoreapp3.0\anagramma.AssemblyInfoInputs.cache
+C:\Users\Габор\source\repos\anagramma\anagramma\obj\Debug\netcoreapp3.0\anagramma.AssemblyInfo.cs
+C:\Users\Габор\source\repos\anagramma\anagramma\obj\Debug\netcoreapp3.0\anagramma.dll
+C:\Users\Габор\source\repos\anagramma\anagramma\obj\Debug\netcoreapp3.0\anagramma.pdb

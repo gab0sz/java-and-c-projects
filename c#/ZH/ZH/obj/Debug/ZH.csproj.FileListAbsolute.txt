@@ -1,0 +1,2 @@
+F:\prog2\c#\ZH\ZH\obj\Debug\ZH.csprojAssemblyReference.cache
+F:\prog2\c#\ZH\ZH\obj\Debug\ZH.csproj.CoreCompileInputs.cache

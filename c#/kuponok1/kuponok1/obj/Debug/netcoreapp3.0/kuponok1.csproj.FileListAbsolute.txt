@@ -1,0 +1,10 @@
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.exe
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.deps.json
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.runtimeconfig.json
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.runtimeconfig.dev.json
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.dll
+F:\prog2\c#\kuponok1\kuponok1\bin\Debug\netcoreapp3.0\kuponok1.pdb
+F:\prog2\c#\kuponok1\kuponok1\obj\Debug\netcoreapp3.0\kuponok1.AssemblyInfoInputs.cache
+F:\prog2\c#\kuponok1\kuponok1\obj\Debug\netcoreapp3.0\kuponok1.AssemblyInfo.cs
+F:\prog2\c#\kuponok1\kuponok1\obj\Debug\netcoreapp3.0\kuponok1.dll
+F:\prog2\c#\kuponok1\kuponok1\obj\Debug\netcoreapp3.0\kuponok1.pdb

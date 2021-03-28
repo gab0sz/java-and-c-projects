@@ -1,0 +1,11 @@
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.exe
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.deps.json
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.runtimeconfig.json
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.runtimeconfig.dev.json
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.dll
+F:\prog2\c#\bugos_sorok\bugos_sorok\bin\Debug\netcoreapp3.0\bugos_sorok.pdb
+F:\prog2\c#\bugos_sorok\bugos_sorok\obj\Debug\netcoreapp3.0\bugos_sorok.csprojAssemblyReference.cache
+F:\prog2\c#\bugos_sorok\bugos_sorok\obj\Debug\netcoreapp3.0\bugos_sorok.AssemblyInfoInputs.cache
+F:\prog2\c#\bugos_sorok\bugos_sorok\obj\Debug\netcoreapp3.0\bugos_sorok.AssemblyInfo.cs
+F:\prog2\c#\bugos_sorok\bugos_sorok\obj\Debug\netcoreapp3.0\bugos_sorok.dll
+F:\prog2\c#\bugos_sorok\bugos_sorok\obj\Debug\netcoreapp3.0\bugos_sorok.pdb

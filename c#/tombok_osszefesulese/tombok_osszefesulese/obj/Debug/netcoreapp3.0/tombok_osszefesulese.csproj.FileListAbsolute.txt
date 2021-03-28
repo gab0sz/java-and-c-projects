@@ -1,0 +1,11 @@
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.exe
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.deps.json
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.runtimeconfig.json
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.runtimeconfig.dev.json
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.dll
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\bin\Debug\netcoreapp3.0\tombok_osszefesulese.pdb
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\obj\Debug\netcoreapp3.0\tombok_osszefesulese.csprojAssemblyReference.cache
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\obj\Debug\netcoreapp3.0\tombok_osszefesulese.AssemblyInfoInputs.cache
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\obj\Debug\netcoreapp3.0\tombok_osszefesulese.AssemblyInfo.cs
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\obj\Debug\netcoreapp3.0\tombok_osszefesulese.dll
+F:\prog2\c#\tombok_osszefesulese\tombok_osszefesulese\obj\Debug\netcoreapp3.0\tombok_osszefesulese.pdb

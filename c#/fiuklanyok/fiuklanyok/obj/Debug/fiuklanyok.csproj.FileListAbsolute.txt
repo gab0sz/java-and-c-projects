@@ -1,0 +1,7 @@
+F:\prog2\c#\fiuklanyok\fiuklanyok\bin\Debug\fiuklanyok.exe.config
+F:\prog2\c#\fiuklanyok\fiuklanyok\bin\Debug\fiuklanyok.exe
+F:\prog2\c#\fiuklanyok\fiuklanyok\bin\Debug\fiuklanyok.pdb
+F:\prog2\c#\fiuklanyok\fiuklanyok\obj\Debug\fiuklanyok.csprojAssemblyReference.cache
+F:\prog2\c#\fiuklanyok\fiuklanyok\obj\Debug\fiuklanyok.csproj.CoreCompileInputs.cache
+F:\prog2\c#\fiuklanyok\fiuklanyok\obj\Debug\fiuklanyok.exe
+F:\prog2\c#\fiuklanyok\fiuklanyok\obj\Debug\fiuklanyok.pdb

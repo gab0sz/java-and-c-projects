@@ -1,0 +1,7 @@
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe.config
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.exe
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\bin\Debug\KoPapirOllo.pdb
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csprojAssemblyReference.cache
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.csproj.CoreCompileInputs.cache
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.exe
+F:\prog2\c#\KoPapirOllo\KoPapirOllo\KoPapirOllo\obj\Debug\KoPapirOllo.pdb

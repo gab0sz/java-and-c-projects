@@ -1,0 +1,7 @@
+F:\prog2\c#\Regenyalakok\Regenyalakok\bin\Debug\Regenyalakok.exe.config
+F:\prog2\c#\Regenyalakok\Regenyalakok\bin\Debug\Regenyalakok.exe
+F:\prog2\c#\Regenyalakok\Regenyalakok\bin\Debug\Regenyalakok.pdb
+F:\prog2\c#\Regenyalakok\Regenyalakok\obj\Debug\Regenyalakok.csprojAssemblyReference.cache
+F:\prog2\c#\Regenyalakok\Regenyalakok\obj\Debug\Regenyalakok.csproj.CoreCompileInputs.cache
+F:\prog2\c#\Regenyalakok\Regenyalakok\obj\Debug\Regenyalakok.exe
+F:\prog2\c#\Regenyalakok\Regenyalakok\obj\Debug\Regenyalakok.pdb

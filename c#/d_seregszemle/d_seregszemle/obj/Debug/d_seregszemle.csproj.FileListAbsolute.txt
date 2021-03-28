@@ -1,0 +1,7 @@
+F:\prog2\c#\d_seregszemle\d_seregszemle\bin\Debug\d_seregszemle.exe.config
+F:\prog2\c#\d_seregszemle\d_seregszemle\bin\Debug\d_seregszemle.exe
+F:\prog2\c#\d_seregszemle\d_seregszemle\bin\Debug\d_seregszemle.pdb
+F:\prog2\c#\d_seregszemle\d_seregszemle\obj\Debug\d_seregszemle.csprojAssemblyReference.cache
+F:\prog2\c#\d_seregszemle\d_seregszemle\obj\Debug\d_seregszemle.csproj.CoreCompileInputs.cache
+F:\prog2\c#\d_seregszemle\d_seregszemle\obj\Debug\d_seregszemle.exe
+F:\prog2\c#\d_seregszemle\d_seregszemle\obj\Debug\d_seregszemle.pdb

@@ -1,0 +1,7 @@
+F:\prog2\c#\lego\lego\bin\Debug\lego.exe.config
+F:\prog2\c#\lego\lego\bin\Debug\lego.exe
+F:\prog2\c#\lego\lego\bin\Debug\lego.pdb
+F:\prog2\c#\lego\lego\obj\Debug\lego.csprojAssemblyReference.cache
+F:\prog2\c#\lego\lego\obj\Debug\lego.csproj.CoreCompileInputs.cache
+F:\prog2\c#\lego\lego\obj\Debug\lego.exe
+F:\prog2\c#\lego\lego\obj\Debug\lego.pdb

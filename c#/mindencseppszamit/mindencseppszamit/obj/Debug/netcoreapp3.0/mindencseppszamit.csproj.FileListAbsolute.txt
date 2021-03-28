@@ -1,0 +1,11 @@
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.exe
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.deps.json
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.runtimeconfig.json
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.runtimeconfig.dev.json
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.dll
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\bin\Debug\netcoreapp3.0\mindencseppszamit.pdb
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\obj\Debug\netcoreapp3.0\mindencseppszamit.csprojAssemblyReference.cache
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\obj\Debug\netcoreapp3.0\mindencseppszamit.AssemblyInfoInputs.cache
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\obj\Debug\netcoreapp3.0\mindencseppszamit.AssemblyInfo.cs
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\obj\Debug\netcoreapp3.0\mindencseppszamit.dll
+C:\Users\Габор\source\repos\mindencseppszamit\mindencseppszamit\obj\Debug\netcoreapp3.0\mindencseppszamit.pdb

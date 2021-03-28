@@ -1,0 +1,6 @@
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\bin\Debug\egeszekatlaga3.exe.config
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\bin\Debug\egeszekatlaga3.exe
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\bin\Debug\egeszekatlaga3.pdb
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\obj\Debug\egeszekatlaga3.csproj.CoreCompileInputs.cache
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\obj\Debug\egeszekatlaga3.exe
+F:\prog2\c#\egeszekmin\egeszekatlaga3\egeszekatlaga3\obj\Debug\egeszekatlaga3.pdb

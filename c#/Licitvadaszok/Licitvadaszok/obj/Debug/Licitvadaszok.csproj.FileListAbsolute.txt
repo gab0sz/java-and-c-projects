@@ -1,0 +1,7 @@
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\bin\Debug\Licitvadaszok.exe.config
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\bin\Debug\Licitvadaszok.exe
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\bin\Debug\Licitvadaszok.pdb
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\obj\Debug\Licitvadaszok.csprojAssemblyReference.cache
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\obj\Debug\Licitvadaszok.csproj.CoreCompileInputs.cache
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\obj\Debug\Licitvadaszok.exe
+F:\prog2\c#\Licitvadaszok\Licitvadaszok\obj\Debug\Licitvadaszok.pdb

@@ -1,0 +1,11 @@
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.exe
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.deps.json
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.runtimeconfig.json
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.runtimeconfig.dev.json
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.dll
+C:\Users\Габор\source\repos\permutaciok\permutaciok\bin\Debug\netcoreapp3.0\permutaciok.pdb
+C:\Users\Габор\source\repos\permutaciok\permutaciok\obj\Debug\netcoreapp3.0\permutaciok.csprojAssemblyReference.cache
+C:\Users\Габор\source\repos\permutaciok\permutaciok\obj\Debug\netcoreapp3.0\permutaciok.AssemblyInfoInputs.cache
+C:\Users\Габор\source\repos\permutaciok\permutaciok\obj\Debug\netcoreapp3.0\permutaciok.AssemblyInfo.cs
+C:\Users\Габор\source\repos\permutaciok\permutaciok\obj\Debug\netcoreapp3.0\permutaciok.dll
+C:\Users\Габор\source\repos\permutaciok\permutaciok\obj\Debug\netcoreapp3.0\permutaciok.pdb

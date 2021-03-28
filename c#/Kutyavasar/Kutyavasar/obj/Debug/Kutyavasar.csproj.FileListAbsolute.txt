@@ -1,0 +1,7 @@
+F:\prog2\c#\Kutyavasar\Kutyavasar\bin\Debug\Kutyavasar.exe.config
+F:\prog2\c#\Kutyavasar\Kutyavasar\bin\Debug\Kutyavasar.exe
+F:\prog2\c#\Kutyavasar\Kutyavasar\bin\Debug\Kutyavasar.pdb
+F:\prog2\c#\Kutyavasar\Kutyavasar\obj\Debug\Kutyavasar.csprojAssemblyReference.cache
+F:\prog2\c#\Kutyavasar\Kutyavasar\obj\Debug\Kutyavasar.csproj.CoreCompileInputs.cache
+F:\prog2\c#\Kutyavasar\Kutyavasar\obj\Debug\Kutyavasar.exe
+F:\prog2\c#\Kutyavasar\Kutyavasar\obj\Debug\Kutyavasar.pdb

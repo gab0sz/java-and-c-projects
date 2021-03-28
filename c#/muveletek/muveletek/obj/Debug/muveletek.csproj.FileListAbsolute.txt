@@ -1,0 +1,7 @@
+F:\prog2\c#\muveletek\muveletek\bin\Debug\muveletek.exe.config
+F:\prog2\c#\muveletek\muveletek\bin\Debug\muveletek.exe
+F:\prog2\c#\muveletek\muveletek\bin\Debug\muveletek.pdb
+F:\prog2\c#\muveletek\muveletek\obj\Debug\muveletek.csprojAssemblyReference.cache
+F:\prog2\c#\muveletek\muveletek\obj\Debug\muveletek.csproj.CoreCompileInputs.cache
+F:\prog2\c#\muveletek\muveletek\obj\Debug\muveletek.exe
+F:\prog2\c#\muveletek\muveletek\obj\Debug\muveletek.pdb

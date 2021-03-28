@@ -1,0 +1,7 @@
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\bin\Debug\egeszekmin.exe.config
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\bin\Debug\egeszekmin.exe
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\bin\Debug\egeszekmin.pdb
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\obj\Debug\egeszekmin.csprojAssemblyReference.cache
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\obj\Debug\egeszekmin.csproj.CoreCompileInputs.cache
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\obj\Debug\egeszekmin.exe
+F:\prog2\c#\egeszekmin\egeszekmin\egeszekmin\obj\Debug\egeszekmin.pdb

@@ -1,0 +1,7 @@
+F:\prog2\c#\Butorvasar\Butorvasar\bin\Debug\Butorvasar.exe.config
+F:\prog2\c#\Butorvasar\Butorvasar\bin\Debug\Butorvasar.exe
+F:\prog2\c#\Butorvasar\Butorvasar\bin\Debug\Butorvasar.pdb
+F:\prog2\c#\Butorvasar\Butorvasar\obj\Debug\Butorvasar.csprojAssemblyReference.cache
+F:\prog2\c#\Butorvasar\Butorvasar\obj\Debug\Butorvasar.csproj.CoreCompileInputs.cache
+F:\prog2\c#\Butorvasar\Butorvasar\obj\Debug\Butorvasar.exe
+F:\prog2\c#\Butorvasar\Butorvasar\obj\Debug\Butorvasar.pdb
